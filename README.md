@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EM1R73
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me emiraliml06@gmail.com
 
 <!---
